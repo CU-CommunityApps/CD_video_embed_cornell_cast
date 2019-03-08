@@ -1,0 +1,9 @@
+<?php
+
+module_load_include('inc', 'video_embed_cornell_cast', 'video_embed_cornell_cast.tokens');
+
+/**
+ * @file
+ * Contains video_embed_cornell_cast.module.
+ */
+
