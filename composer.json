@@ -2,6 +2,7 @@
     "name": "cubear/video_embed_cornell_cast",
     "description": "A Drupal 8 media provider for CornellCast videos.",
     "type": "drupal-custom-module",
+    "license": "GPL-3.0+",
     "homepage": "https://it.cornell.edu/custom-web",
     "authors": [
         {
