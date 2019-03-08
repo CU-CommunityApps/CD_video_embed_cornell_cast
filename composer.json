@@ -15,5 +15,6 @@
     },
     "minimum-stability": "dev",
     "require": {
+        "drupal/video_embed_field": "*"
     }
 }
