@@ -4,5 +4,4 @@ description: Helps to properly embed cornell cast videos.
 core: 8.x
 package: Custom
 dependencies:
-  - token
   - video_embed_field
