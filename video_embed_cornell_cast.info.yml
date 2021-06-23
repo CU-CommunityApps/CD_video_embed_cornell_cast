@@ -1,7 +1,7 @@
 name: Video Embed Cornell Cast
 type: module
 description: Helps to properly embed cornell cast videos.
-core: 8.x
+core_version_requirement: ^8.8 || ^9
 package: Custom
 dependencies:
   - video_embed_field
